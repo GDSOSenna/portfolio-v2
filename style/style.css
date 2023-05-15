@@ -60,7 +60,7 @@ body{
         transform: translateY(-10vh) scale(1);
     }
     100%{
-        transform: translateY(367vh) scale(1);
+        transform: translateY(400vh) scale(1);
     }
 }
 
